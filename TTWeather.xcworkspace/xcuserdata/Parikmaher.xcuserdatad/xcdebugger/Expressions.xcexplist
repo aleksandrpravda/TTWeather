@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "NetworkService.locationManager(_:didUpdateLocations:):NetworkService.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.setupResult">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

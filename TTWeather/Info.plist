@@ -20,6 +20,17 @@
 	<string>1</string>
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
+	<key>NSAppTransportSecurity</key>
+	<dict>
+		<key>NSAllowsArbitraryLoads</key>
+		<true/>
+	</dict>
+	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+	<string>TODO add Some In Use Usage Description</string>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>TODO add Some Usage Description</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>TODO add Some When In Use Usage Description</string>
 	<key>UILaunchStoryboardName</key>
 	<string>LaunchScreen</string>
 	<key>UIMainStoryboardFile</key>

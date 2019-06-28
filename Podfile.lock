@@ -1,0 +1,27 @@
+PODS:
+  - Alamofire (4.8.2)
+  - YandexMobileMetrica (3.6.0):
+    - YandexMobileMetrica/Static (= 3.6.0)
+  - YandexMobileMetrica/Static (3.6.0):
+    - YandexMobileMetrica/Static/Core (= 3.6.0)
+    - YandexMobileMetrica/Static/Crashes (= 3.6.0)
+  - YandexMobileMetrica/Static/Core (3.6.0)
+  - YandexMobileMetrica/Static/Crashes (3.6.0):
+    - YandexMobileMetrica/Static/Core
+
+DEPENDENCIES:
+  - Alamofire
+  - YandexMobileMetrica (= 3.6.0)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - YandexMobileMetrica
+
+SPEC CHECKSUMS:
+  Alamofire: ae5c501addb7afdbb13687d7f2f722c78734c2d3
+  YandexMobileMetrica: 11eee6732831a44aea2d81e3ae8626b5b0e129c5
+
+PODFILE CHECKSUM: e1fd05ef01e88c359861511f1257dd1a9d937e58
+
+COCOAPODS: 1.7.0
